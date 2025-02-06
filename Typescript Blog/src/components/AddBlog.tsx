@@ -34,5 +34,3 @@ const AddBlog: React.FC<AddBlogProps> = ({ onSave }) => {
 }
 
 export default AddBlog;
-
-
